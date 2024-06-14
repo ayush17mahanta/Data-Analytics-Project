@@ -6,6 +6,8 @@ Welcome to my Data Analytics Projects repository! This repository contains a col
 
 1. Trainity
 
+2. EduTech
+
 
 ## How to Use
 
