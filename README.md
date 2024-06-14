@@ -8,6 +8,8 @@ Welcome to my Data Analytics Projects repository! This repository contains a col
 
 2. EduTech
 
+## Extra Dataset
+In this section, you will find additional datasets provided for practice purposes. These datasets can be used to hone your data analytics skills or to experiment with different techniques. Each dataset includes a brief description and suggested tasks to get you started.
 
 ## How to Use
 
