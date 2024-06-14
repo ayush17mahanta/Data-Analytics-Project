@@ -1,0 +1,16 @@
+PassengerId,,,Survived,,,Pclass,,,SibSp,,,Parch,
+,,,,,,,,,,,,,
+Mean,656.2798635,,Mean,0.607508532,,Mean,1.187713311,,Mean,0.484641638,,Mean,0.447098976
+Standard Error,21.67156174,,Standard Error,0.028575897,,Standard Error,0.029936694,,Standard Error,0.037008643,,Standard Error,0.044893268
+Median,660,,Median,1,,Median,1,,Median,0,,Median,0
+Mode,#N/A,,Mode,1,,Mode,1,,Mode,0,,Mode,0
+Standard Deviation,370.9573834,,Standard Deviation,0.48914057,,Standard Deviation,0.512433651,,Standard Deviation,0.633485918,,Standard Deviation,0.768448967
+Sample Variance,137609.3803,,Sample Variance,0.239258497,,Sample Variance,0.262588246,,Sample Variance,0.401304409,,Sample Variance,0.590513816
+Kurtosis,-1.133874576,,Kurtosis,-1.816549717,,Kurtosis,6.242761307,,Kurtosis,1.96012508,,Kurtosis,3.26559523
+Skewness,0.044867196,,Skewness,-0.442602513,,Skewness,2.713340798,,Skewness,1.278728243,,Skewness,1.82017457
+Range,1304,,Range,1,,Range,2,,Range,3,,Range,4
+Minimum,2,,Minimum,0,,Minimum,1,,Minimum,0,,Minimum,0
+Maximum,1306,,Maximum,1,,Maximum,3,,Maximum,3,,Maximum,4
+Sum,192290,,Sum,178,,Sum,348,,Sum,142,,Sum,131
+Count,293,,Count,293,,Count,293,,Count,293,,Count,293
+,1,,,1,,,1,,,1,,,1
